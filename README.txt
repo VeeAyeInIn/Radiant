@@ -1,3 +1,5 @@
+**This is the default README.txt when first creating a MinecraftForge project.
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
